@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+    background-repeat: no-repeat;
+    background-image: url(alphabet-clash-pro-resources-main/images/background.png);
+
+}
